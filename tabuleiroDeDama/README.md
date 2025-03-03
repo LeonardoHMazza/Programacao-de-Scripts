@@ -17,7 +17,6 @@ Este projeto implementa um tabuleiro de dama utilizando Next.js. Ele exibe um ta
    cd Programacao-de-Scripts/tabuleiroDeDama
    npm run dev
    ```
-     ```
 4. **Visualização do projeto**: Abra o navegador e vá para http://localhost:3000/tabuleiroDeDama
 
 ## Estilização Utilizada
